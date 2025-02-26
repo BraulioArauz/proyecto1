@@ -4,4 +4,4 @@
 Estudiante de progra
 ### Grupo
 - 12-2
-![Texto alternativo](imagen/si.png)
+![Texto alternativo](imagen/senna.png)
